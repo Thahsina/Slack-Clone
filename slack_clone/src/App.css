@@ -1,0 +1,9 @@
+body {
+  --app-color :rgb(4, 63, 63);
+  overflow: hidden;
+}
+
+.app__body{
+  display: flex;
+  height: 100vh;
+}
